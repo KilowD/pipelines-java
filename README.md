@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/ynwa-kilowd/terra-azure-devops/_apis/build/status/MVC%20Project?branchName=master)](https://dev.azure.com/ynwa-kilowd/terra-azure-devops/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
